@@ -1,23 +1,23 @@
- const sliderData = [
+const sliderData = [
   {
     id: 1,
-    description: "Leaving room"
+    description: "Abeille solitaire",
   },
   {
     id: 2,
-    description: "Kitchen"
+    description: "Plant en fleut",
   },
   {
     id: 3,
-    description: "Bedroom"
+    description: "Fleur orange",
   },
   {
     id: 4,
-    description: "Bathroom"
+    description: "Bafleur béton",
   },
   {
     id: 5,
-    description: "Balcony"
+    description: "Tomates vertes",
   },
-]
+];
 export default sliderData;
